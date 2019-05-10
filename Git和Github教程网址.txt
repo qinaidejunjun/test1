@@ -1,0 +1,9 @@
+【Task0（1天）】
+学习使用Git上传文件至Github，Jupyter notebook基础环境搭建
+【参考资料（择一即可）】
+视频版
+https://www.bilibili.com/video/av10475153?from=search&seid=11281184335048850372
+网页版
+https://git-scm.com/book/zh/v2
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+或者文档版
